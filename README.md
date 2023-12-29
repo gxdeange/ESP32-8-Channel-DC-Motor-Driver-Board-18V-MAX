@@ -10,6 +10,13 @@ Features include:
 * All driver channels completely independant from each other
 * Solder Pads for remaining 8 GPIO's (can use a 2 X $ Right Angle Dupont Header)
 
+GPIO's with 10kOhm Pull Up Resistor (3.3V):
+
+* GPIO36 (SVP)
+* GPIO39 (SVN)
+* GPIO34
+* GPIO35
+
 <img width="389" alt="ESP32 8X Brushed DC Motor Driver" src="https://github.com/gxdeange/ESP32-8-Channel-Brushed-DC-Motor-Driver-Board---24V-MAX/assets/57690555/821a4539-0016-493d-a3fa-8c33d6a84c90">
 
 

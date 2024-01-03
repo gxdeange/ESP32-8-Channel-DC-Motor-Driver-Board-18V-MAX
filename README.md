@@ -19,32 +19,8 @@ GPIO's with 10kOhm Pull Up Resistor (3.3V):
 
 <img width="383" alt="ESP32 8X BRUSHED DC MOTOR DRIVER BOARD" src="https://github.com/gxdeange/ESP32-8-Channel-Brushed-DC-Motor-Driver-Board---24V-MAX/assets/57690555/aae5794a-e381-422a-9108-05dfc6f9e639">
 
-
-
 # Motor Ouput to MCU Pin Mapping
 
-* M1-A : GPIO33
-* M1-B : GPIO32
-
-* M2-A : GPIO26
-* M2-B : GPIO25
-
-* M3-A : GPIO14
-* M3-B : GPIO27
-
-* M4-A : GPIO13
-* M4-B : GPIO12
-
-* M5-A : GPIO17
-* M5-B : GPIO16
-
-* M6-A : GPIO18
-* M6-B : GPIO5
-
-* M7-A : GPIO22
-* M7-B : GPIO23
-
-* M8-A : GPIO19
-* M8-B : GPIO21
+![image](https://github.com/gxdeange/ESP32-8-Channel-Brushed-DC-Motor-Driver-Board-24V-MAX/assets/57690555/718c3c8d-6859-4abb-85c3-9721e34585ef)
 
 <img width="953" alt="ESP32 8X BRUSHED DC MOTOR PINOUTS" src="https://github.com/gxdeange/ESP32-8-Channel-Brushed-DC-Motor-Driver-Board---24V-MAX/assets/57690555/25947cdc-494d-440c-8e05-819168d0fe7e">

@@ -1,6 +1,6 @@
-# ESP32 8-Channel Brushed DC Motor Driver Board - 24V MAX
+# ESP32 8-Channel DC Motor Driver Board - 18V MAX
 
-8 Channel Brushed DC Driver Board with PWM inputs and Motor FWD / REV capability @ 24V MAX.
+8 Channel DC Driver Board with PWM inputs and Motor FWD / REV capability @ 24V MAX.
 
 Features include:
 

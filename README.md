@@ -1,6 +1,6 @@
 # ESP32 8-Channel DC Motor Driver Board - 18V MAX
 
-8 Channel DC Driver Board with PWM inputs and Motor FWD / REV capability @ 24V MAX.
+8 Channel DC Driver Board with PWM inputs and Motor FWD / REV capability @ 18V MAX.
 
 Features include:
 
@@ -8,7 +8,7 @@ Features include:
 * Small Form Factor (same size as an ESP32 Dev Kit Module (38 Pin)
 * Full standalone capability (can wire directly to board instead of using ESP32 Dev Kit Module
 * All driver channels completely independant from each other
-* Solder Pads for remaining 8 GPIO's (can use a 2 X $ Right Angle Dupont Header)
+* Solder Pads for remaining 8 GPIO's (can use a 2 X 4 Right Angle Dupont Header)
 
 GPIO's with 10kOhm Pull Up Resistor (3.3V):
 
